@@ -1,5 +1,7 @@
 """A setuptools based setup module.
 
+Based on code from the repos below, needs continuous update as the package moves forward, is not considered to be a finished product at this time.  If removing default comments be sure that the values are never likely to be changed - PJH
+
 See:
 https://packaging.python.org/guides/distributing-packages-using-setuptools/
 https://github.com/pypa/sampleproject
@@ -26,7 +28,7 @@ setup(
     # This is a one-line description or tagline of what your project does. This
     # corresponds to the "Summary" metadata field:
     # https://packaging.python.org/specifications/core-metadata/#summary
-    description='A sample Python project',  # Optional
+    description='A python package for connection, retrieval, and analysis of production data held by Elements Technology Platforms. A valid subscription Elements docket production tracking services is required to make any use of this package.',  # Optional
 
     # This field corresponds to the "Description" metadata field:
     # https://packaging.python.org/specifications/core-metadata/#description-optional
