@@ -1,7 +1,8 @@
 
 **/__pycache__/
 
-**/elements.egg-info
+**/eltech.egg-info
+*.egg-info
 **/build
 **/dist
 *.pyc
